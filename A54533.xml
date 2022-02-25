@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of divers eminent citizens of London, presented to the Lord Mayor and Court of Aldermen the 28th of April, 1681</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54533</idno>
+            <idno type="STC">Wing P1762</idno>
+            <idno type="STC">ESTC R2345</idno>
+            <idno type="EEBO-CITATION">11877105</idno>
+            <idno type="OCLC">ocm 11877105</idno>
+            <idno type="VID">50272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50272)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 505:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of divers eminent citizens of London, presented to the Lord Mayor and Court of Aldermen the 28th of April, 1681</title>
+                  <author>Ward, Patience, Sir, 1629-1696.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B.A. and published by Richard Janaway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in University of Pennsylvania Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:50272:1"/>
+            <pb facs="tcp:50272:1" rendition="simple:additions"/>
+            <head>THE PETITION OF Divers Eminent Citizens of <hi>LONDON,</hi> preſent<g ref="char:EOLhyphen"/>ed to the LORD MAYOR and Court of ALDERMEN the 28th of <hi>April,</hi> 1681.</head>
+            <opener>To the Right Honourable Sir <hi>Patient Ward</hi> Lord Mayor of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and to the Right Worſhipful the Aldermen his Brethren. The hum<g ref="char:EOLhyphen"/>ble Petition of us whoſe Names are hereunto ſubſcribed, Citizens of the ſaid City.<lb/> 
+               <hi>Humbly ſheweth,</hi>
+            </opener>
+            <p>THat the Deſigns of the Popiſh and Jeſuitical Party, for ſubverting and deſtroying the Proteſtant Religion and the eſtabliſhed Govern<g ref="char:EOLhyphen"/>ment of this Kingdom, have for ſome years paſt been carried on in an extraordinary way, encouraged by the hopes the Papiſts (as your Petitioners believe) had of a Popiſh Succeſſor, Witneſs the burning of this City, with intention of a Maſſacre at the ſame time, their many and frequent attempts of firing other parts of the City, and other places in the Kingdom; and to ſuch a height did thoſe hopes tranſport the agents of that party, that they took upon them to hold Correſpondencies with forein Prin<g ref="char:EOLhyphen"/>ces, to influence His Majeſties Councils to diſſolve the then Parliament, and to frame a Declaration to have been publiſhed in His Majeſties name on that Occaſion; and at laſt to contrive that Deviliſh and horrid Plot for aſſaſſinat<g ref="char:EOLhyphen"/>ing His Majeſties Royal Perſon, putting the Papiſts in arms, bringing in forein forces both into <hi>England</hi> and <hi>Ireland,</hi> to eſtabliſh their Religion, and deſtroy the Proteſtants. What endeavours have been by them ſet on foot to prevent the Diſcovery &amp; fuller Detection of their Villanies, the Murder of Sir <hi>Edmond Godfrey,</hi> the attempt on Juſtice <hi>Arnold,</hi> the means uſed to take off and diſ<g ref="char:EOLhyphen"/>courage the King's Evidence, the ſuborning Perſons to ſwear falſly, and the ſetting up ſeveral Sham-plots contrived by themſelves to be charged by falſe Witneſſes on His Majeſties Proteſtant Subjects, are evident and apparent to all the World.</p>
+            <p>That by reaſon hereof ſuch have been, and ſtill are the fears and diſtracti<g ref="char:EOLhyphen"/>ons in the minds of People, that many have withdrawn from the City, others declined their Trades and all true Proteſtants been in continual fears and anx<g ref="char:EOLhyphen"/>ieties of mind, whereby great expence and charge in keeping and maintaining continual Guards, hath been neceſſitated, and yet moſt people live under daily apprehenſions, doubting every night what may be their condition before Morning.</p>
+            <p>That on His Majeſties ſummoning a Parliament to meet the 6th of <hi>March,</hi> 1678. It was hoped that effectual courſe would have been taken to detect and bring the Conſpirators to condign puniſhment, and by Laws to have ſe<g ref="char:EOLhyphen"/>cured the Proteſtant Religion againſt their attempts. (It being impoſſible, as your Petitioners humbly conceive, that the ſame can any way be done, but by authority of Parliament.) And thoſe hopes were the more raiſed from His Majeſties moſt gracious Declaration of the 21 <hi>April</hi> 1679. on the change of his Privy Council, that he was reſolved in all weighty and important Affairs
+<pb facs="tcp:50272:2" rendition="simple:additions"/>(next to the Advice of his great Council in Parliament, which he would very often conſult with) to be <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>viſed by that Privy Council; but that Parliament was prorogued the 27. <hi>May</hi> 1679 and afterwards many of that Privy Coun<g ref="char:EOLhyphen"/>cil were changed, and then followed a Diſſolution of the Parliament. A new Parliament was called to meet in <hi>October</hi> 1679. but kept off by many Pro<g ref="char:EOLhyphen"/>rogations till <hi>October</hi> 1680.</p>
+            <p>And before any thing could be perfected for the ſecurity of Religion, the ſame was diſſolved, and another ſummoned to meet at <hi>Oxford,</hi> which was alſo diſſolved, and nothing done; thereby the Proteſtant Religion, and the Lives and Liberties of His Majeſtios Proteſtant Subjects expoſed to the uttermoſt ha<g ref="char:EOLhyphen"/>zard, in caſe His Majeſty, whom God long preſerve, ſhould depart this Life be<g ref="char:EOLhyphen"/>fore a due proviſion by Law could be made.</p>
+            <p>And Your Petitioners having heard that ſome perſons of this City as well in the Names of many other Citizens and Inhabitants of this City, as in their own Names, have gone about to procure hands to a Petition to Your Lord<g ref="char:EOLhyphen"/>ſhip, and this Honourable Court, inſinuating (as Your Petioners are informed) That His Majeſties expreſſion in His Late Declaration touching the two Laſt Parliaments of His Reſolution to have frequent Parliaments, <hi>&amp;c.</hi> was a full Security againſt all the fears of Popery, and the Deſigns and Conſpiracies of Papiſts (which there is cauſe to believe) are yet carrying on as much as ever againſt His Majeſties Royal Perſon, the Proteſtant Religion, and the Govern<g ref="char:EOLhyphen"/>ment of this Kingdom.</p>
+            <p>Your Petitioners, though they hope their fellow Citizens who have ſigned the ſaid Petition<g ref="char:punc">▪</g> may be good Proteſtants, and mean well to their Religion and City, yet knowing how cunning and ſubtle the Papiſts and Jeſuitical Party are by falſe Aſperſions and Suggeſtions, and Secret Inſinuations, to raiſe and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oment Diviſions amongſt Proteſtants, to ſet them one againſt another, and make them Inſtruments of their own Ruine; and fearing leſt ſomething of this kind may have given Riſe to the ſaid Petition, They have thought them<g ref="char:EOLhyphen"/>ſelves bound by their Allegiance to His Majeſty, and the Duty that lies upon them in ref<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rence to the Religion they profeſs, which they deſire may be tranſmitted to their Poſterity, To make this Addreſs to Your Lordſhip and this Honourab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Court, and humbly to declare,</p>
+            <p>That as matters ſtand at preſent, conſidering the Bloody and Wicked De<g ref="char:EOLhyphen"/>ſigns of Papiſts, their indefatigable and unwearied Endeavours animated (as is humbly conceived) by their hopes that the Succeſſor to the Crown will be of their Religion, and juſtifie whatever they ſhall do to introduce it; They humbly conceive that it is not a Declaration to have frequent Parliaments, that can contribute any thing to the Safety and Preſervation of His Majeſties Royal Perſon (whom God long preſerve) the Security of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion, and the Lives and Liberties, and compoſing the minds of thoſe that profeſs it; But it muſt be the Sitting of a Parliament, ſo as fully To examine the Plot, to proſecute the Conſpirators, and to provide ſuitable Laws againſt the ſeared Evils; And without which nothing can be effectual; His Majeſty in Parliament giving Life to thoſe Laws by His Royal Aſſent; And therefore</p>
+            <p>
+               <hi>Your Petitioners humbly pray, That a Common Council may he called, and that upon Conſideration of the whole matter, ſuch humble Addreſs may be made to His moſt Gracious Majeſty, as the neceſſity of the Caſe ſhall be found to require.</hi>
+            </p>
+            <closer>
+               <dateline>Preſented <date>
+                     <hi>Thurſday April</hi> 28. 1681.</date>
+               </dateline> And Your Petitioners as in duty bound ſhall ever pray, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>B.A.</hi> And Publiſhed by <hi>Richard Janaway,</hi> in <hi>Queens-Head Alley</hi> in <hi>Pater-Noſier-Row.</hi> 1681.</p>
+            <pb facs="tcp:50272:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
